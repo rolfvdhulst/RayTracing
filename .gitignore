@@ -1,0 +1,9 @@
+darkImage.ppm
+image.ppm
+fastImage.ppm
+largeImage.ppm
+wallPaper.ppm
+cmake-build-debug/*
+cmake-build-release/*
+build/*
+.idea/*
